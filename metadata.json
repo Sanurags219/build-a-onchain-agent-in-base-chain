@@ -1,0 +1,6 @@
+{
+  "name": "BaseAgent",
+  "description": "An intelligent onchain agent built on Base. Chat to swap tokens, send crypto, and manage your onchain identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["CHRONOLOGY", "MESSAGING"]
+}
